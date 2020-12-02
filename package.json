@@ -47,5 +47,8 @@
     "intl-messageformat": "^1.2.0",
     "jszip": "^2.5.0",
     "snapsvg": "^0.3.0"
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
